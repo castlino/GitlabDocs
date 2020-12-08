@@ -1,5 +1,7 @@
 # GitlabDocs
 
+Below is just the basic usage of adding time spent and estimate to a gitlab issues, if you want to learn more [click here](https://docs.gitlab.com/ee/user/project/time_tracking.html)
+
 ## To add estimate to gitlab issues assigned to a developer, write it as a comment as below.
 >ex: "/estimate 4h" for 4 hours.
 
